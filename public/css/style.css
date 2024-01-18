@@ -90,7 +90,7 @@ h1 {
   color: rgb(35, 85, 49);
   background-color:rgb(213, 255, 176);
   border: 2px solid rgb(35, 85, 49);
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .top-detail .index-button:hover {
@@ -157,7 +157,7 @@ header {
   background-color:rgb(213, 255, 176);
   border: 2px solid rgb(35, 85, 49);
   margin-top: 15px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .return-menu a:hover {
